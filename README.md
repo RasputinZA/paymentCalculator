@@ -1,2 +1,2 @@
-# myApp
+# paymentCalculator
 Simple payment calculator
